@@ -11,7 +11,7 @@ public class Hello {
 			int i = 0;
 		
 			for(; i < 4; i++) {
-				System.out.println("HelloWorld!");
+				System.out.println("Hello");
 			}
 		System.out.print("\n");
 			for(; i < 10; i++) {
