@@ -16,9 +16,9 @@ public class Hello {
 		System.out.print("\n");
 			for(; i < 10; i++) {
 				if(i % 2 == 0) {
-					System.out.println("HelloWorld?");
+					System.out.println("HelloRaiseTech");
 				}else {
-					System.out.println("こんにちは世界!");
+					System.out.println("こんにちはレイズテック!");
 				}
 				
 				if(i == 7) {
